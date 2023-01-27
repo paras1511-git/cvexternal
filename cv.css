@@ -1,0 +1,68 @@
+body{
+  background-color: lavender;
+}
+table, th {
+  border-style: dashed;
+  width: max-content;
+  margin: auto;
+  background-color: aqua;
+  
+  
+}
+#result,td {
+  width: max-content;
+  border-style: dotted;
+  
+  
+   
+}
+b{
+  color: rgb(231, 8, 8);
+  text-shadow: 2px 1px black;
+  text-transform: uppercase;
+  text-decoration-line: underline;
+  text-decoration-color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  margin-left: auto;
+
+
+}
+b.a{
+  color: black;
+  text-shadow: none;
+  text-decoration-color: navajowhite;
+  text-transform: capitalize;
+}
+b.c{
+  color: rgb(231, 8, 8);
+  text-shadow: 2px 1px black;
+  text-transform: uppercase;
+  text-decoration-line: underline;
+  text-decoration-color: blue;
+  text-align-last: left; 
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 7%;
+
+}
+ul{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  margin-left: 7%;
+
+}
+ol{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  margin-left: 7%;
+}
+li{
+  font-family: 'Courier New', Courier, monospace;
+  }
+pre{
+    font-family: 'Courier New', Courier, monospace;
+  }
+pre.non{
+    font-family: 'Courier New', Courier, monospace;
+    }
